@@ -5,4 +5,4 @@
 - 🤔 I am looking for help with shell's logic and philosophy to enhance Cy. Any advice from skillful professionals is always welcome!
 - 📫 How to reach me: maxim at 40-02.com
 
-Mya background is desrcibed [here](https://github.com/maxim-uvarov/maxim-uvarov/blob/main/about.md)
+My background is desrcibed [here](https://github.com/maxim-uvarov/maxim-uvarov/blob/main/about.md)
