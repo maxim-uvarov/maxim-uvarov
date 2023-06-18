@@ -1,7 +1,7 @@
 # Hi there!
 
 - 🔭 I’m currently working on [Cy](https://github.com/cyber-prophet/cy)
-- 🌱 I’m currently learning: English, Nushell, VisiData, dply-rs, Bash
+- 🌱 I’m currently learning: English, Nushell, Git, LLMs, VisiData
 - 🤔 I am looking for help with shell's logic and philosophy to enhance Cy. Any advice from skillful professionals is always welcome!
 - 📫 How to reach me: maxim at 40-02.com
 
