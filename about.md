@@ -6,3 +6,5 @@ I was a founding member of big communities about SEM and Power BI and served as 
 
 In 2020, I decided to change my life, quit my addictions, and started meditating extensively using the self-inquiry technique advocated by Gary Weber and Ramana Maharshi. In 2021, I moved to Bali island, where I am learning about the Bostrom blockchain.
 In 2022, I found Nushell and started the development of [cy](https://github.com/cyber-prophet/cy).
+
+I have been doing analytics since 2010. I have never had a manager who was more technically advanced than me. What I learned, I learned mostly by myself, though I would be happy to find a mentor with years of experience in enterprise development (especially using bash). I'm open to any advice and collaboration with professionals.
