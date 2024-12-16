@@ -28,8 +28,10 @@ Since 2011, I have always been free to choose tasks for myself, and I have never
 
 Even though I don't have extensive corporate experience (and thus lack experience in working with big data and learning from experienced developers and analysts), I have invested a lot of time in improving my computer efficiency. I believe that I have valuable knowledge and insights from real-world practice to share.
 
-\* I'm still missing my community activities and addictions as they gave me the most pleasures in my life. 
+---
 
-\** And related to my rudimentary community leader manners: I'm extremely grateful to folks from Nushell community, as they often tolerate my irrelevant selfish nubie sentiments that bypass my control. Though, I must assure that I'm really trying my best to be a useful member of the community and don't flood to much. 
+\* I'm still missing my community activities and addictions as they brought me the most pleasures in my life. 
 
-\*** And finally meditation starts giving me pleasure.
+\** And related to my rudimentary community leader manners: I'm extremely grateful to the folks from the Nushell community, as they tolerate my sometimes irrelevant, selfish newbie sentiments that bypass my control. However, I must assure you that I'm really trying my best to be a useful member of the community and not flood too much.
+
+\*** And finally, meditation is starting to give me pleasure, so hopefully one day I will forget about my previous unhealthy sources.
