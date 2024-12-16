@@ -1,6 +1,6 @@
 ## My Background
 
-Back in 2010, I began my career as a search engine marketing analyst. Quite soon, I became the Head of the Paid Marketing team in a big e-commerce startup (Wikimart.ru). I was a co-founder of SEM-automation startup K50.ru (acquired by Yandex in 2021).
+Back in 2010, I began my career as a search engine marketing analyst. Quite soon, I became the Head of the Paid Marketing team in a big e-commerce startup (Wikimart.ru). I was a co-founder of SEM-automation startup [K50.ru](https://k50.ru) (acquired by Yandex in 2021).
 
 I was a founding member of big communities (each with more than 10k members) about SEM and Power BI, and served as an active moderator. Over the years, Yandex granted me the status of an educational expert, and Microsoft acknowledged me as a Most Valuable Professional (a status I held for 5 years).
 
@@ -18,7 +18,7 @@ As a team member, I have won prizes in big hackathons for chatbots and open data
 
 In 2019, I had the honor of teaching my course "Analytics of Digital Marketing" to 2 groups of students at HSE.ru (a top-ranked university in Russia).
 
-In 2020, I decided to change my life. I stopped community activities, quit my addictions, and started meditating extensively using the self-inquiry technique advocated by Gary Weber and Ramana Maharshi.
+In 2020, I decided to change my life. I stopped community activities, quit my addictions\*, and started meditating extensively using the self-inquiry technique advocated by Gary Weber and Ramana Maharshi\***.
 
 In 2021, I moved to Bali island where I am learning, researching, and discovering applications of Cybergraph. Cybergraph is a general-purpose, permissionless, informational graph built on top of the content addressing mechanism (IPFS) and lives in the consensus computer of the Bostrom blockchain.
 
@@ -27,3 +27,9 @@ In 2022, a friend of mine showed me Nushell, and later I started the development
 Since 2011, I have always been free to choose tasks for myself, and I have never selected anything that is boring to me.
 
 Even though I don't have extensive corporate experience (and thus lack experience in working with big data and learning from experienced developers and analysts), I have invested a lot of time in improving my computer efficiency. I believe that I have valuable knowledge and insights from real-world practice to share.
+
+\* I'm still missing my community activities and addictions as they gave me the most pleasures in my life. 
+
+\** And related to my rudimentary community leader manners: I'm extremely grateful to folks from Nushell community, as they often tolerate my irrelevant selfish nubie sentiments that bypass my control. Though, I must assure that I'm really trying my best to be a useful member of the community and don't flood to much. 
+
+\*** And finally meditation starts giving me pleasure.
