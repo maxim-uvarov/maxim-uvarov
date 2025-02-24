@@ -6,7 +6,9 @@ I was a founding member of big communities (each with more than 10k members) abo
 
 I co-founded and was in charge of working with speakers at the first and biggest professional conference about Search Engine Marketing in Russia for 5 years.
 
-During my career, I have been a speaker at more than 70 public events on digital marketing and web analytics.
+Together with my co-host Maksim Zelenskiy, we have recorded more than 32 shows on Power BI in the [bi-tv](https://www.youtube.com/bitvru) series, either by ourselves or with invited exceptional professionals.
+
+During my career, I have been a speaker at more than 70 public events on digital marketing and web analytics, primarily focusing on conversion prediction. You can find the subjects of my speeches translated by ChatGPT [here](https://github.com/maxim-uvarov/maximuvarov.ru/blob/59a949c756e5b4ccd4763918f3f45e0ec952dcb1/rocket-docs/src/docs/digest_en.mdx).
 
 According to my RescueTime logs, I have spent more than 3.5k hours working in MS Excel and Power BI. I have even recorded commercially successful educational video courses on how to use Excel and Power BI for digital marketing analytics (Needfordata.ru).
 
