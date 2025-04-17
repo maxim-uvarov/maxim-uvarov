@@ -26,6 +26,8 @@ In 2021, I moved to Bali island where I am learning, researching, and discoverin
 
 In 2022, a friend of mine showed me Nushell, and later I started the development of [cy](https://github.com/cyber-prophet/cy), a tool for interacting with Cybergraphs. I had never written code before, except for analytics purposes, so I became a junior developer on my own.
 
+In 2024, I moved to South America. I can't spend as much time on meditation anymore, as I need to learn Spanish and establish my life in a whole new environment.
+
 Since 2011, I have always been free to choose tasks for myself, and I have never selected anything that is boring to me.
 
 Even though I don't have extensive corporate experience (and thus lack experience in working with big data and learning from experienced developers and analysts), I have invested a lot of time in improving my computer efficiency. I believe that I have valuable knowledge and insights from real-world practice to share.
