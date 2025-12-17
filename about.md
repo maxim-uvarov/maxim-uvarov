@@ -22,7 +22,7 @@ In 2019, I had the honor of teaching my course "Analytics of Digital Marketing" 
 
 In 2020, I decided to change my life. I stopped community activities, quit my addictions\*, and started meditating extensively using the self-inquiry technique advocated by Gary Weber and Ramana Maharshi\***.
 
-In 2021, I moved to Bali island where I am learning, researching, and discovering applications of Cybergraph. Cybergraph is a general-purpose, permissionless, informational graph built on top of the content addressing mechanism (IPFS) and lives in the consensus computer of the Bostrom blockchain.
+In 2021, I moved to Bali island where I was researching, and discovering applications of Cybergraph. 
 
 In 2022, a friend of mine showed me Nushell, and later I started the development of [cy](https://github.com/cyber-prophet/cy), a tool for interacting with Cybergraphs. I had never written code before, except for analytics purposes, so I became a junior developer on my own.
 
