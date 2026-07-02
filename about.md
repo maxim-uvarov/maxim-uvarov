@@ -32,6 +32,8 @@ In 2022, a friend of mine showed me Nushell, and later I started the development
 
 In 2024, I moved to South America — learning Spanish and building life anew. ¡Hola! ¿Qué tal?
 
+In May 2025, Anthropic launched a subscription that includes Claude Code, so I began experimenting with coding agents among the first public wave of adopters.
+
 Since 2011, I have always been free to choose tasks for myself, and I have never selected anything that is boring to me.
 
 I have invested a lot of time in improving my computer efficiency, and I believe I have valuable knowledge and insights from real-world practice to share. I don't have extensive corporate experience — so I've had less exposure to big data and to learning from experienced developers and analysts — but everything I know is grounded in real practice.
