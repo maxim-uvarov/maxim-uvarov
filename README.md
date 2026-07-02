@@ -1,10 +1,5 @@
-# Hakuna Matata
+Maxim Uvarov — data analyst turned tool builder. Co-founded K50.ru (SEM automation, acquired by Yandex 2021); Microsoft MVP for 5 years; 3.5k+ hours in Excel/Power BI. Since 2022, inventing ways to use the terminal for non-engineering tasks ([@nushell-prophet](https://github.com/nushell-prophet)). Since May 2025, a heavy user of Claude Code.
 
-- 🤓 Disclaimer: I started using CLI apps only in 2022, thanks to Nushell. Prior to that, I was an analyst on the MS stack (Excel + Power BI).
-- 🔭 I’m currently working on [numd](https://github.com/maxim-uvarov/numd), [cy](https://github.com/cyber-prophet/cy)
-- 🌱 I’m currently learning: English, Spanish, Nushell, Git, Claude Code, VisiData... 🤯
-- 🤔 Any advice from experienced developers is always welcome! It seems to me that I often behave clumsily in many ways, but I'm keen to grow and receptive to help.
-- 🙈 I used to be a leader in large communities that I founded, where my opinion held value. Now, I'm a newbie in communities created by others. It is a very special experience!
-- 📫 How to reach me: maxim at 40-02.com
+Came to code late and from analytics, so I'm still learning the craft — advice from experienced developers always welcome.
 
-My background is desrcibed [here](https://github.com/maxim-uvarov/maxim-uvarov/blob/main/about.md)
+My background is described [here](https://github.com/maxim-uvarov/maxim-uvarov/blob/main/about.md)
