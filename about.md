@@ -34,7 +34,7 @@ In 2024, I moved to South America. I can't spend as much time on meditation anym
 
 Since 2011, I have always been free to choose tasks for myself, and I have never selected anything that is boring to me.
 
-Even though I don't have extensive corporate experience (and thus lack experience in working with big data and learning from experienced developers and analysts), I have invested a lot of time in improving my computer efficiency. I believe that I have valuable knowledge and insights from real-world practice to share.
+I have invested a lot of time in improving my computer efficiency, and I believe I have valuable knowledge and insights from real-world practice to share. I don't have extensive corporate experience — so I've had less exposure to big data and to learning from experienced developers and analysts — but everything I know is grounded in real practice.
 
 ---
 
