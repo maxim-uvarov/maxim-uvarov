@@ -30,7 +30,7 @@ In 2021, I moved to Bali island where I was researching, and discovering applica
 
 In 2022, a friend of mine showed me Nushell, and later I started the development of [cy](https://github.com/cyber-prophet/cy), a tool for interacting with Cybergraphs. I had never written code before, except for analytics purposes, so I became a junior developer on my own.
 
-In 2024, I moved to South America. I can't spend as much time on meditation anymore, as I need to learn Spanish and establish my life in a whole new environment.
+In 2024, I moved to South America — learning Spanish and building life anew. ¡Hola! ¿Qué tal?
 
 Since 2011, I have always been free to choose tasks for myself, and I have never selected anything that is boring to me.
 
@@ -41,5 +41,3 @@ I have invested a lot of time in improving my computer efficiency, and I believe
 \* I'm still missing my community activities and addictions as they brought me the most pleasures in my life. 
 
 \** And related to my rudimentary community leader manners: I'm extremely grateful to the folks from the Nushell community, as they tolerate my sometimes irrelevant, selfish newbie sentiments that bypass my control. However, I must assure you that I'm really trying my best to be a useful member of the community and not flood too much.
-
-\*** And finally, meditation is starting to give me pleasure, so hopefully one day I will forget about my previous unhealthy sources.
