@@ -1,5 +1,7 @@
 ## My Background
 
+I spent a decade in marketing analytics, then in 2020 turned to meditation and self-taught coding. This is how I got here.
+
 Back in 2010, I began my career as a search engine marketing analyst. Quite soon, I became the Head of the Paid Marketing team in a big e-commerce startup (Wikimart.ru). I was a co-founder of SEM-automation startup [K50.ru](https://k50.ru) (acquired by Yandex in 2021).
 
 I was a founding member of big communities (each with more than 10k members) about SEM and Power BI, and served as an active moderator. Over the years, Yandex granted me the status of an educational expert, and Microsoft acknowledged me as a Most Valuable Professional (a status I held for 5 years).
@@ -16,9 +18,11 @@ I was a search marketing consultant for companies like Hotels.com, Mail.ru, Ozon
 
 I co-organized data hackathons in collaboration with Yandex, Microsoft, IT-agency, and Comagic.
 
-As a team member, I have won prizes in big hackathons for chatbots and open data.
+As a team member, I have won prizes in EdHack #3 (2016) and in the national 'Open Data of the Russian Federation' hackathon (2017).
 
 In 2019, I had the honor of teaching my course "Analytics of Digital Marketing" to 2 groups of students at HSE.ru (a top-ranked university in Russia).
+
+## The turn, 2020
 
 In 2020, I decided to change my life. I stopped community activities, quit my addictions\*, and started meditating extensively using the self-inquiry technique advocated by Gary Weber and Ramana Maharshi\***.
 
