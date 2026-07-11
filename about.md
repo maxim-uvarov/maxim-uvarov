@@ -24,7 +24,7 @@ In 2019, I had the honor of teaching my course "Analytics of Digital Marketing" 
 
 ## The turn, 2020
 
-In 2020, I decided to change my life. I stopped community activities, quit my addictions\*, and started meditating extensively using the self-inquiry technique advocated by Gary Weber and Ramana Maharshi\***.
+In 2020, I decided to change my life. I stopped community activities, quit my addictions\*, and started meditating extensively using the self-inquiry technique advocated by Gary Weber and Ramana Maharshi\.
 
 In 2021, I moved to Bali island where I was researching, and discovering applications of Cybergraph. 
 
@@ -40,6 +40,6 @@ I have invested a lot of time in improving my computer efficiency, and I believe
 
 ---
 
-\* I'm still missing my community activities and addictions as they brought me the most pleasures in my life. 
+\* I'm still missing my community activities as they brought me the most pleasures in my life. Hopefully, I'll be back soon.
 
 \** And related to my rudimentary community leader manners: I'm extremely grateful to the folks from the Nushell community, as they tolerate my sometimes irrelevant, selfish newbie sentiments that bypass my control. However, I must assure you that I'm really trying my best to be a useful member of the community and not flood too much.
